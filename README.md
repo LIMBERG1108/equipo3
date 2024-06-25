@@ -1,2 +1,0 @@
-# equipo3
-integradora
